@@ -1,4 +1,4 @@
-from src.constants import TRAINING_FEES, PRIVATE_TUITION_FEE, COMPETITION_FEE, WEIGHT_CATEGORIES
+from constants import TRAINING_FEES, PRIVATE_TUITION_FEE, COMPETITION_FEE, WEIGHT_CATEGORIES
 
 
 def calculate_monthly_fee(training_plan):

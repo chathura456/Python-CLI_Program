@@ -1,4 +1,4 @@
-from src.constants import TRAINING_FEES, WEIGHT_CATEGORIES
+from constants import WEIGHT_CATEGORIES
 
 
 def get_athlete_name():

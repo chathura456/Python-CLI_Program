@@ -22,7 +22,5 @@ class TestInputFunctions(unittest.TestCase):
         self.assertEqual(get_weight_category(), "Middleweight")
 
 
-# Add more tests as needed, especially for edge cases or invalid inputs
-
 if __name__ == "__main__":
     unittest.main()
